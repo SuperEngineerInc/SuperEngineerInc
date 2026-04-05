@@ -65,6 +65,10 @@
 			<br>Flask
 		</td>
 		<td align="center" width="96">
+			<img src="https://skillicons.dev/icons?i=fastapi" alt="icon" width="48" height="48" />
+			<br>FastAPI
+		</td>
+		<td align="center" width="96">
 			<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="icon" />
 			<br>Nodejs
 		</td>
@@ -102,6 +106,14 @@
 		<td align="center" width="96">
 			<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="icon" />
 			<br>VsCode
+		</td>
+        <td align="center" width="96">
+			<img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="icon" />
+			<br>Nginx
+		</td>
+        <td align="center" width="96">
+			<img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="icon" />
+			<br>Azure
 		</td>
 	</tr>
 	<tr>
